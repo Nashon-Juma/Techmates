@@ -1,0 +1,10 @@
+<script setup>
+
+import TheWelcome from '../components/MyFirst.vue'
+</script>
+
+<template>
+  <main>
+    <TheWelcome />
+  </main>
+</template>
